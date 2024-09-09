@@ -8,8 +8,8 @@ const App = () => {
       <h1>Button Hover Effects</h1>
       <h4>
         By:{' '}
-        <a href="http://kylebrumm.com" target="_blank" rel="noopener noreferrer">
-          Kyle Brumm
+        <a href="https://goowrite.com" target="_blank" rel="noopener noreferrer">
+          Goowrite.com
         </a>
       </h4>
 
